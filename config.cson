@@ -1,0 +1,10 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 19
+  "exception-reporting":
+    userId: "32b423cd-0763-4ca1-98c1-8a32e2eb9485"
+  github: {}
+  welcome:
+    showOnStartup: false
